@@ -4773,6 +4773,42 @@
 		(layer "Edge.Cuts")
 		(uuid "aac30369-0b8a-4d0a-b6e2-75779a5796da")
 	)
+	(gr_text "click click click"
+		(at 131 48 0)
+		(layer "F.SilkS")
+		(uuid "5b5b5fe7-2537-45c1-a44a-7d1735709fc1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "clack clack clack"
+		(at 153 68 0)
+		(layer "F.SilkS")
+		(uuid "7b9a8ca9-f0a9-4861-a2cc-deed73c6674d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "fidget"
+		(at 167 29 0)
+		(layer "B.SilkS")
+		(uuid "d6f309d9-c987-4ec0-9b99-dd7f287568d5")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.2)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 123.885786 33.1)
 		(end 124.33 33.1)
@@ -4806,6 +4842,14 @@
 		(uuid "c2463b90-294f-41ea-b40c-9768cb33d6be")
 	)
 	(segment
+		(start 142.4895 62.058)
+		(end 143.5515 63.12)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "led5")
+		(uuid "38bf5f82-83e3-4b2d-b745-b1d218e872fd")
+	)
+	(segment
 		(start 153.7115 47.045)
 		(end 153.7115 47.88)
 		(width 0.2)
@@ -4820,14 +4864,6 @@
 		(layer "F.Cu")
 		(net "Net-(D4-PadA)")
 		(uuid "d1389bfe-0802-438b-b2a7-1f39a0b82cab")
-	)
-	(segment
-		(start 142.4895 62.058)
-		(end 143.5515 63.12)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "led5")
-		(uuid "38bf5f82-83e3-4b2d-b745-b1d218e872fd")
 	)
 	(embedded_fonts no)
 )
