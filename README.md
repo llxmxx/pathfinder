@@ -15,4 +15,4 @@ custom pcb controller board and e-fidget. pressing certain buttons(at certain ti
 | led | to light up! | 10	| 0.13 | https://robocraze.com/products/5mm-white-blue-led-pack-of-10?variant=40192389120153 | Robocraze |
 | keycaps | to cover the switches | 5 | 1.04 | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/?attribute_pa_variations=off-white | Meckeys |
 | xiao rp2040 | where the inputs from buttons go and where the outputs for leds come from | 1 | 6.42 | https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board?variant=47742255562976 | Robocraze |
-| pcb |	printed circuit board to assemble and connect components | 5 | 2 | https://jlcpcb.com/ | JLCPCB |
+| pcb |	printed circuit board to assemble and connect components | 5 | 4 | https://jlcpcb.com/ | JLCPCB |
